@@ -1,0 +1,10 @@
+<config>
+	<italianregions>
+		<region>Campania</region>
+	</italianregions>
+	<params>
+		<param>totale_attualmente_positivi</param>
+		<param>deceduti</param>
+		<param>dimessi_guariti</param>
+	</params>
+</config>
