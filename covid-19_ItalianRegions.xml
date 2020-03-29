@@ -1,6 +1,7 @@
 <config>
 	<italianregions>
 		<region>Campania</region>
+		<region>Lombardia</region>
 	</italianregions>
 	<params>
 		<param>totale_attualmente_positivi</param>
